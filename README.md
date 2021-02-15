@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jasonvanmalder@gmail.com**
 
-- 📄 Know about my skills/experiences/projects [https://jvnm.dev](jvnm.dev)
+- 📄 Know about my skills/experiences/projects <a href="https://jvnm.dev/" target="_blank">jvnm.dev</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
