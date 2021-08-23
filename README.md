@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Currently working for a company specialized in IPTV, media management and secure solutions for the medical sector.</h3>
+<!--<h3 align="center">Currently working for a company specialized in IPTV, media management and secure solutions for the medical sector.</h3>-->
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/jvnm-dev?style=social">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jvnm_dev?style=social">
