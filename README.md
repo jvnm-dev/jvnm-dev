@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jason Van Malder</h1>
-<img src="https://i.imgur.com/7DLJteA.png" alt="intro" />
 <h3>Currently working for <a href="https://haulogy.net/" target="_blank">haulogy</a> a company that offers IT solutions both to Distribution Network Managers and energy suppliers.</h3>
 
 <div align="center">
